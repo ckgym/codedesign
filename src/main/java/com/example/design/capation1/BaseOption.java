@@ -17,7 +17,7 @@ public class BaseOption {
 
     protected String symble;
 
-    //定义一个预算虚函数
+    //定义一个预算虚函数1
     protected Integer getResult() {
         Integer result = 0;
         return result;
