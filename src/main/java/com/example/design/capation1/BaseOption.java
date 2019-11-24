@@ -4,7 +4,7 @@ import lombok.Data;
 import org.omg.CORBA.INTERNAL;
 
 /**
- * @ClassName : design1
+ * @ClassName : design
  * @Description : 运算基础类
  * @Author : ChenKun
  * @Date : 2019-11-24 11:44
